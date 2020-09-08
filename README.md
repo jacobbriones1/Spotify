@@ -1,3 +1,2 @@
 # Spotify
-Creating a graph representing related artists in spotify
-Implementation is not fully complete
+Accessing Spotify data using the Spotify API for data analysis
